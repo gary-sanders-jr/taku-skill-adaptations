@@ -18,8 +18,9 @@ repository and fixed here at commit
 `83561bd7d8a46fcda0581aedabdf8eac7cb196b6`. It preserves evidence triage for
 public Shopify App Store reviews while materially limiting inputs, personal
 data, inference, high-risk claims, persistence, account access, and external
-actions. See `UPSTREAM_CREDITS.md`, `ADAPTATION_NOTES.md`, and
-`THIRD_PARTY_NOTICES.md`.
+actions. See [upstream credits](UPSTREAM_CREDITS.md),
+[adaptation notes](ADAPTATION_NOTES.md), and
+[third-party notices](THIRD_PARTY_NOTICES.md).
 
 Shopify is a trademark of Shopify Inc. This Skill is independent and is not
 affiliated with, endorsed by, or sponsored by Shopify Inc. or any app developer.
