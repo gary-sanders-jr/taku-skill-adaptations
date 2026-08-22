@@ -4,7 +4,6 @@ description: "Turn sanitized public Shopify App Store review excerpts that the u
 license: MIT
 metadata:
   version: "2.0"
-  upstream_author: "alfredtech2026"
   upstream_repository: "https://github.com/github/awesome-copilot"
   upstream_commit: "83561bd7d8a46fcda0581aedabdf8eac7cb196b6"
   adaptation: "Material safety and capability rewrite; independent and not affiliated with Shopify Inc."
