@@ -1,4 +1,4 @@
-# Upstream Credits and Adaptation Disclosure
+# Source Credits and Adaptation Disclosure
 
 ## Source Skill
 

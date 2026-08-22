@@ -18,7 +18,7 @@ repository and fixed here at commit
 `83561bd7d8a46fcda0581aedabdf8eac7cb196b6`. It preserves evidence triage for
 public Shopify App Store reviews while materially limiting inputs, personal
 data, inference, high-risk claims, persistence, account access, and external
-actions. See [upstream credits](UPSTREAM_CREDITS.md),
+actions. See [source credits](SOURCE_CREDITS.md),
 [adaptation notes](ADAPTATION_NOTES.md), and
 [third-party notices](THIRD_PARTY_NOTICES.md).
 
