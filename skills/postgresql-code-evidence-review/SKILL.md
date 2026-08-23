@@ -78,7 +78,7 @@ Any proposed `EXPLAIN`, index, statistics, vacuum, lock or benchmark step must b
 
 ### 5. Review migration and operational safety
 
-Identify possible locks, table rewrites, long transactions, blocking DDL, backfill scale, replication effects and rollback gaps. Ask for current official PostgreSQL documentation or other authoritative evidence when syntax, locking or version behavior could have changed. Do not browse unless the user explicitly authorizes a read-only source lookup; never treat third-party snippets as authoritative production proof.
+Identify possible locks, table rewrites, long transactions, blocking DDL, backfill scale, replication effects and rollback gaps. Ask the user to provide current official PostgreSQL documentation or another authoritative excerpt when syntax, locking or version behavior could have changed. This Skill never browses or retrieves that material; route any public-source lookup to a separate, explicitly authorized read-only workflow. Never treat third-party snippets as authoritative production proof.
 
 ### 6. Produce an advisory report
 
