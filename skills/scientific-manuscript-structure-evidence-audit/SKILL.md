@@ -112,4 +112,3 @@ The audit is complete only when:
 - proposed changes are unapplied and preserve the supplied scientific claim;
 - citation support, current policy, domain validity, and high-stakes decisions are not falsely certified;
 - no file, repository, network, account, submission, contact, send, publish, or other external action occurred.
-
