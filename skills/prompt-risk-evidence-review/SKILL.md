@@ -80,7 +80,7 @@ Check for unsupported demographic inference, proxy discrimination, stereotyping,
 
 ### 6. Review factual and evaluation claims
 
-Flag unsupported statistics, rankings, guarantees, citations, product/model capabilities, policy statements and “latest/current” claims. Require supplied or current authoritative sources and preserve uncertainty. Do not browse unless the user separately authorizes a read-only lookup.
+Flag unsupported statistics, rankings, guarantees, citations, product/model capabilities, policy statements and “latest/current” claims. Preserve uncertainty and require the user to provide a current authoritative excerpt together with its URL, publisher and date. This Skill never browses or performs a lookup; if source discovery is needed, route it to a separate explicitly authorized workflow and review only the sanitized evidence returned to this conversation.
 
 Evaluation suggestions must be `PROPOSED — NOT RUN`. Do not call models, create accounts, upload prompts, run red-team payloads, collect user data, or claim a test passed. Prefer a small human-review rubric that names expected evidence and stop conditions.
 
