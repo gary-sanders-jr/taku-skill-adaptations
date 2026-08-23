@@ -137,4 +137,4 @@ READY FOR ACCOUNTABLE REVIEW | NEEDS REVISION | INSUFFICIENT EVIDENCE
 
 This Skill does not edit files or plans; create or update tickets; assign owners; set dates; read accounts or private systems; run commands, tests, or code; invoke agents; send messages; approve architecture; merge, deploy, publish, purchase, delete, configure, or execute any plan step. It does not guarantee feasibility, correctness, security, compliance, delivery dates, or outcomes.
 
-If the user wants a revised plan, first provide a clearly labeled proposed diff or replacement passage for review. Do not write it to a file unless the user separately and explicitly authorizes that file write.
+If the user wants a revised plan, provide a clearly labeled proposed diff or replacement passage in the current conversation and stop. Route any file creation or edit to a separate workflow with its own explicit scope and authorization; this Skill never writes the plan.

@@ -8,3 +8,6 @@ third-party-data minimization, evidence statuses, authoritative public-source
 verification boundaries, high-consequence human routing, and a conversation-only
 no-action contract. It also narrows the job against code review and strategy red
 teaming so the Community listing is not presented as a replacement for either.
+The final operative boundary always keeps proposed revisions in the conversation;
+file creation or editing is routed outside this Skill to a separately authorized
+workflow.
