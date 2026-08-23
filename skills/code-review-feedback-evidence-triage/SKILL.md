@@ -1,6 +1,6 @@
 ---
 name: code-review-feedback-evidence-triage
-description: Turn user-supplied, sanitized code-review feedback and explicitly provided read-only context into a private evidence triage: clarified claims, confidence, risks, dependencies, and a recommended response order. Use before deciding whether to accept, question, defer, or reject review feedback; this Skill advises only and never changes code or replies to reviewers.
+description: 'Turn user-supplied, sanitized code-review feedback and explicitly provided read-only context into a private evidence triage: clarified claims, confidence, risks, dependencies, and a recommended response order. Use before deciding whether to accept, question, defer, or reject review feedback; this Skill advises only and never changes code or replies to reviewers.'
 license: MIT
 ---
 
